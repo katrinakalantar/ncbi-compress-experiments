@@ -1,0 +1,5 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,agg_score,max_z_score,nt_z_score,nt_rpm,nt_count,nt_contigs,nt_contig_r,nt_percent_identity,nt_alignment_length,nt_e_value,nt_bg_mean,nt_bg_stdev,nt_bg_mean_mass_normalized,nt_bg_stdev_mass_normalized,nr_z_score,nr_rpm,nr_count,nr_contigs,nr_contig_r,nr_percent_identity,nr_alignment_length,nr_e_value,nr_bg_mean,nr_bg_stdev,nr_bg_mean_mass_normalized,nr_bg_stdev_mass_normalized,species_tax_ids,known_pathogen
+694002,2,694002,Betacoronavirus,"",viruses,false,244252873.56321838,100,,,,,,,,,,,,,100,24425.287356321838,17,,,39.4824,92.9412,10^-6.56434,,,,,[694009],1
+694009,1,694002,Severe acute respiratory syndrome-related coronavirus,"",viruses,false,244252873.56321838,100,,,,,,,,,,,,,100,24425.287356321838,17,,,39.4824,92.9412,10^-6.56434,,,,,,1
+-200011118,2,-200011118,non-genus-specific reads in family Coronaviridae,,viruses,false,14367816.091954023,100,,,,,,,,,,,,,100,1436.7816091954023,1,,,34.9,86.0,10^-3.45842,,,,,[1508220],0
+1508220,1,-200011118,Bat coronavirus,"",viruses,false,14367816.091954023,100,,,,,,,,,,,,,100,1436.7816091954023,1,,,34.9,86.0,10^-3.45842,,,,,,0

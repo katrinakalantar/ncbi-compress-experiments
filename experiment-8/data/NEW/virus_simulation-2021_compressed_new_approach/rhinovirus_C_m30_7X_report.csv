@@ -1,0 +1,5 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,agg_score,max_z_score,nt_z_score,nt_rpm,nt_count,nt_contigs,nt_contig_r,nt_percent_identity,nt_alignment_length,nt_e_value,nt_bg_mean,nt_bg_stdev,nt_bg_mean_mass_normalized,nt_bg_stdev_mass_normalized,nr_z_score,nr_rpm,nr_count,nr_contigs,nr_contig_r,nr_percent_identity,nr_alignment_length,nr_e_value,nr_bg_mean,nr_bg_stdev,nr_bg_mean_mass_normalized,nr_bg_stdev_mass_normalized,species_tax_ids,known_pathogen
+12059,2,12059,Enterovirus,"",viruses,false,1746987951.807229,100,,,,,,,,,,,,,100,246987.9518072289,41,,,44.6805,93.2683,10^-12.3369,,,,,"[463676, 47681, 147711]",2
+463676,1,12059,Rhinovirus C,"",viruses,false,1746987951.807229,100,,,,,,,,,,,,,100,174698.7951807229,29,,,44.4931,93.7931,10^-12.1991,,,,,,1
+47681,1,12059,Enterovirus sp.,"",viruses,false,662650602.4096385,100,,,,,,,,,,,,,100,66265.06024096385,11,,,46.1455,91.8182,10^-13.0516,,,,,,0
+147711,1,12059,Rhinovirus A,"",viruses,false,60240963.855421685,100,,,,,,,,,,,,,100,6024.096385542169,1,,,34.0,94.0,10^-8.47108,,,,,,1

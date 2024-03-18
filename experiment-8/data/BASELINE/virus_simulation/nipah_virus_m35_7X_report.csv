@@ -1,0 +1,4 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,agg_score,max_z_score,nt_z_score,nt_rpm,nt_count,nt_contigs,nt_contig_r,nt_percent_identity,nt_alignment_length,nt_e_value,nt_bg_mean,nt_bg_stdev,nt_bg_mean_mass_normalized,nt_bg_stdev_mass_normalized,nr_z_score,nr_rpm,nr_count,nr_contigs,nr_contig_r,nr_percent_identity,nr_alignment_length,nr_e_value,nr_bg_mean,nr_bg_stdev,nr_bg_mean_mass_normalized,nr_bg_stdev_mass_normalized,species_tax_ids,known_pathogen
+260964,2,260964,Henipavirus,"",viruses,false,943396226.4150943,100,,,,,,,,,,,,,100,99056.60377358491,42,,,41.9786,94.9524,10^-9.12699,,,,,"[121791, 63330]",2
+121791,1,260964,Nipah henipavirus,"",viruses,false,943396226.4150943,100,,,,,,,,,,,,,100,94339.62264150943,40,,,41.9325,94.925,10^-9.1383,,,,,,1
+63330,1,260964,Hendra henipavirus,"",viruses,false,47169811.320754714,100,,,,,,,,,,,,,100,4716.981132075472,2,,,42.9,95.5,10^-8.90074,,,,,,1

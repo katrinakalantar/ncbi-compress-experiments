@@ -1,0 +1,4 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,agg_score,max_z_score,nt_z_score,nt_rpm,nt_count,nt_contigs,nt_contig_r,nt_percent_identity,nt_alignment_length,nt_e_value,nt_bg_mean,nt_bg_stdev,nt_bg_mean_mass_normalized,nt_bg_stdev_mass_normalized,nr_z_score,nr_rpm,nr_count,nr_contigs,nr_contig_r,nr_percent_identity,nr_alignment_length,nr_e_value,nr_bg_mean,nr_bg_stdev,nr_bg_mean_mass_normalized,nr_bg_stdev_mass_normalized,species_tax_ids,known_pathogen
+10358,2,10358,Cytomegalovirus,"",viruses,false,3649635.03649635,100,,,,,,,,,,,,,100,547.4452554744526,3,,,36.2667,87.6667,10^-5.5826,,,,,"[10359, 203139]",1
+10359,1,10358,Human betaherpesvirus 5,"",viruses,false,3649635.03649635,100,,,,,,,,,,,,,100,364.963503649635,2,,,36.8,86.0,10^-6.69365,,,,,,1
+203139,1,10358,Colobus guereza cytomegalovirus 1,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,35.2,91.0,10^-3.36051,,,,,,0

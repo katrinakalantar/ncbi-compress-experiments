@@ -1,0 +1,8 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,agg_score,max_z_score,nt_z_score,nt_rpm,nt_count,nt_contigs,nt_contig_r,nt_percent_identity,nt_alignment_length,nt_e_value,nt_bg_mean,nt_bg_stdev,nt_bg_mean_mass_normalized,nt_bg_stdev_mass_normalized,nr_z_score,nr_rpm,nr_count,nr_contigs,nr_contig_r,nr_percent_identity,nr_alignment_length,nr_e_value,nr_bg_mean,nr_bg_stdev,nr_bg_mean_mass_normalized,nr_bg_stdev_mass_normalized,species_tax_ids,known_pathogen
+10358,2,10358,Cytomegalovirus,"",viruses,false,268248175.18248177,100,,,,,,,,,,,,,100,27372.26277372263,150,,,39.014,90.3333,10^-6.56011,,,,,"[10359, 1379309, 660666, 660662]",1
+10359,1,10358,Human betaherpesvirus 5,"",viruses,false,268248175.18248177,100,,,,,,,,,,,,,100,26824.817518248175,147,,,38.9687,90.6258,10^-6.57584,,,,,,1
+1379309,1,10358,Piliocolobus badius cytomegalovirus 1,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,34.4,90.0,10^-4.17199,,,,,,0
+660666,1,10358,Pan troglodytes cytomegalovirus 2.1,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,41.0,78.0,10^-6.0655,,,,,,0
+660662,1,10358,Gorilla gorilla cytomegalovirus 2.1,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,48.3,60.0,10^-7.13077,,,,,,0
+-200,2,-200,all taxa with neither family nor genus classification,,,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,35.5,93.0,10^-7.95078,,,,,[-100],0
+-100,1,-200,all taxa with neither family nor genus classification,,,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,35.5,93.0,10^-7.95078,,,,,,0

@@ -1,0 +1,7 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,agg_score,max_z_score,nt_z_score,nt_rpm,nt_count,nt_contigs,nt_contig_r,nt_percent_identity,nt_alignment_length,nt_e_value,nt_bg_mean,nt_bg_stdev,nt_bg_mean_mass_normalized,nt_bg_stdev_mass_normalized,nr_z_score,nr_rpm,nr_count,nr_contigs,nr_contig_r,nr_percent_identity,nr_alignment_length,nr_e_value,nr_bg_mean,nr_bg_stdev,nr_bg_mean_mass_normalized,nr_bg_stdev_mass_normalized,species_tax_ids,known_pathogen
+260964,2,260964,Henipavirus,"",viruses,false,1698113207.5471697,100,100,9433.962264150943,4,,,88.9798,68.5,10^-23.2755,,,,,100,167452.83018867925,71,,,46.7183,92.7183,10^-12.8819,,,,,"[121791, 63330, 1979178]",2
+121791,1,260964,Nipah henipavirus,"",viruses,false,1698113207.5471697,100,100,9433.962264150943,4,,,88.9798,68.5,10^-23.2755,,,,,100,160377.35849056602,68,,,46.8456,92.5147,10^-12.9374,,,,,,1
+63330,1,260964,Hendra henipavirus,"",viruses,false,47169811.320754714,100,,,,,,,,,,,,,100,4716.981132075472,2,,,44.85,97.0,10^-12.3882,,,,,,1
+1979178,1,260964,Ghanaian bat henipavirus,"",viruses,false,23584905.660377357,100,,,,,,,,,,,,,100,2358.490566037736,1,,,41.8,98.0,10^-10.0937,,,,,,0
+2560155,2,2560155,Jeilongvirus,"",viruses,false,23584905.660377357,100,,,,,,,,,,,,,100,2358.490566037736,1,,,33.7,89.0,10^-4.1549,,,,,[2560563],0
+2560563,1,2560155,Lophuromys jeilongvirus 1,"",viruses,false,23584905.660377357,100,,,,,,,,,,,,,100,2358.490566037736,1,,,33.7,89.0,10^-4.1549,,,,,,0

@@ -1,0 +1,16 @@
+tax_id,tax_level,genus_tax_id,name,common_name,category,is_phage,agg_score,max_z_score,nt_z_score,nt_rpm,nt_count,nt_contigs,nt_contig_r,nt_percent_identity,nt_alignment_length,nt_e_value,nt_bg_mean,nt_bg_stdev,nt_bg_mean_mass_normalized,nt_bg_stdev_mass_normalized,nr_z_score,nr_rpm,nr_count,nr_contigs,nr_contig_r,nr_percent_identity,nr_alignment_length,nr_e_value,nr_bg_mean,nr_bg_stdev,nr_bg_mean_mass_normalized,nr_bg_stdev_mass_normalized,species_tax_ids,known_pathogen
+10358,2,10358,Cytomegalovirus,"",viruses,false,3505474452.5547442,100,100,55656.93430656935,305,,,84.7813,130.548,10^-47.0259,,,,,100,298905.1094890511,1638,,,53.5707,87.232,10^-16.0755,,,,,"[10359, 188763, 50292, 1535247, 660662, 1919083, 660664, 660661, 203138, 47929]",1
+10359,1,10358,Human betaherpesvirus 5,"",viruses,false,3505474452.5547442,100,100,55656.93430656935,305,,,84.7813,130.548,10^-47.0259,,,,,100,294890.5109489051,1616,,,53.664,87.2228,10^-16.1281,,,,,,1
+188763,1,10358,Panine betaherpesvirus 2,Chimpanzee cytomegalovirus,viruses,false,14598540.1459854,100,,,,,,,,,,,,,100,1459.85401459854,8,,,50.35,93.125,10^-16.9844,,,,,,0
+50292,1,10358,Cercopithecine betaherpesvirus 5,"",viruses,false,7299270.0729927,100,,,,,,,,,,,,,100,729.92700729927,4,,,40.15,91.0,10^-9.77055,,,,,,0
+1535247,1,10358,Saimiriine betaherpesvirus 4,"",viruses,false,5474452.554744526,100,,,,,,,,,,,,,100,547.4452554744526,3,,,43.0,75.0,10^-3.80005,,,,,,0
+660662,1,10358,Gorilla gorilla cytomegalovirus 2.1,"",viruses,false,3649635.03649635,100,,,,,,,,,,,,,100,364.963503649635,2,,,53.3,98.5,10^-18.5565,,,,,,0
+1919083,1,10358,Cynomolgus cytomegalovirus,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,40.7,86.0,10^-7.92445,,,,,,0
+660664,1,10358,Pan troglodytes cytomegalovirus 1.1,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,51.8,56.0,10^-6.1798,,,,,,0
+660661,1,10358,Gorilla gorilla cytomegalovirus 1.1,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,55.4,83.0,10^-15.9245,,,,,,0
+203138,1,10358,Pongo pygmaeus cytomegalovirus 1,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,45.7,81.0,10^-8.90658,,,,,,0
+47929,1,10358,Macacine betaherpesvirus 3,Rhesus cytomegalovirus,viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,35.1,97.0,10^-6.23582,,,,,,0
+-200,2,-200,all taxa with neither family nor genus classification,,,false,21897810.218978103,100,,,,,,,,,,,,,100,2189.78102189781,12,,,51.175,83.75,10^-15.4521,,,,,[-100],0
+-100,1,-200,all taxa with neither family nor genus classification,,,false,21897810.218978103,100,,,,,,,,,,,,,100,2189.78102189781,12,,,51.175,83.75,10^-15.4521,,,,,,0
+40272,2,40272,Roseolovirus,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,28.6,98.0,10^-3.16877,,,,,[1608255],0
+1608255,1,40272,Suid betaherpesvirus 2,"",viruses,false,1824817.518248175,100,,,,,,,,,,,,,100,182.4817518248175,1,,,28.6,98.0,10^-3.16877,,,,,,0
